@@ -7,6 +7,4 @@ __EXAMPLE:__
 1. Martha - some-heroku-link
 
 __STUDENT LIST HERE:__
-
-
-
+Maria - https://chris-rest.herokuapp.com/restaurants
