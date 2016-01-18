@@ -4,7 +4,7 @@ __When you have successfully deployed your assigned app, add your name and Herok
 
 __EXAMPLE:__
 
-1. Martha - some-heroku-link
+1. Corey - sean's restaurant app https://gentle-bastion-5292.herokuapp.com/restaurants
 
 __STUDENT LIST HERE:__
 Maria - https://chris-rest.herokuapp.com/restaurants
